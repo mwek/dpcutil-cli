@@ -1,13 +1,7 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# VS & Doxygen output folders
+bin
+obj
+# VS user files
+*.user
+# Doxygen output files
+doxygen.sty

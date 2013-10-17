@@ -1,4 +1,5 @@
 dpcutil-cli
 ===========
 
-Use Digilent Port Communications Utility in CLI languages
+Use Digilent Port Communications Utility in CLI languages.
+
